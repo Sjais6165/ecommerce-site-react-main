@@ -59,9 +59,6 @@ bicycle-buy-sell-platform/
 │
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -69,7 +66,7 @@ Edit
 
 ### 🧬 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-username/bicycle-buy-sell-platform.git
 cd bicycle-buy-sell-platform
 📦 2. Install Dependencies
