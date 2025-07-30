@@ -38,7 +38,7 @@ This platform aims to simplify the process of buying and selling bicycles by pro
 
 ---
 
-## 📁 Folder Structure (With Description)
+## 📁 Folder Structure
 
 bicycle-buy-sell-platform/
 ├── client/ # React Frontend
